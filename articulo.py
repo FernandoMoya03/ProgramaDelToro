@@ -1,0 +1,3 @@
+class Articulo():
+    idArticulo=""
+    Description=""
